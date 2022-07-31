@@ -4,14 +4,14 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
+  ['3002494453', '🔥қΞע¡¡מ฿θ‡🔥', true],
   ['51993042301'],
   ['593968585383']
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['3002494453'], 
 
 global.APIs = { // API Prefix.
   
@@ -80,28 +80,28 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.1.22'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'қΞע¡¡מ฿θ‡'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'https://www.instagram.com/keviiindcv'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://www.instagram.com/keviiindcv'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://www.instagram.com/keviiindcv'
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/CunoFmEfBW75APfI0ZO5DJ'
+global.nn = 'https://www.instagram.com/keviiindcv'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/FvWByAGQIoRHH9FwrgB35E'
+global.nnn = 'https://www.instagram.com/keviiindcv'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/DJXZNYZXixx9Zmb0gLPD0b'
+global.nnnt = 'https://www.instagram.com/keviiindcv'
 global.nnngrupo = nnnt //Grupo 3
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'https://www.instagram.com/keviiindcv'
 global.donar = paypal
 
 //global.gataimg = fs.readFileSync('./media/menus/Menu3.jpg')
@@ -137,8 +137,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'қΞע¡¡מ฿θ‡ | KeviinCV'
+global.igfg = 'қΞע¡¡מ฿θ‡'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
